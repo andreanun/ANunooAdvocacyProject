@@ -1,0 +1,2 @@
+.local $ git rm --cached .local rm .local $ git commit -m Start ignoring .local
+.local
